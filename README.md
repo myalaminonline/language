@@ -1,3 +1,2 @@
-# Language
-Alamin Online > Language
+# Alamin Online > Language
 https://alaminonline.com/language
